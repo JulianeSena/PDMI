@@ -11,4 +11,4 @@ Este repositório contém os exercícios, projetos e exemplos desenvolvidos dura
 - **React Native** - Framework principal
 - **JavaScript** - Linguagem de programação
 - **Expo** - Para desenvolvimento mais ágil
-- **Styled Components** ou **React Native Stylesheet** - Estilização
+- **React Native Stylesheet** - Estilização
